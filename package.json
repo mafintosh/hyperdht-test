@@ -1,6 +1,6 @@
 {
   "name": "hyperdht-test",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Simple network test to see if HyperDHT is working",
   "main": "index.js",
   "dependencies": {
